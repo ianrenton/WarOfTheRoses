@@ -1,0 +1,36 @@
+Name,House,Type,Attack,Defence,Range,Move,Max Morale,Unit Bonus
+Abel,Poppy,Ranged,1,0,1,1,0,50% chance Mov+2
+Abigail,Hydrangea,Cavalry,0,0,0,0,100,2% chance convert adj. enemy
+Akane,Honeysuckle,Ranged,0,0,2,0,0,10% chance Atk+5
+Albert,Commoner,Cavalry,0,1,0,2,0,
+Alice Liddell,Black Rose,Command,0,0,0,0,0,Units create taint
+An Hero,Commoner,Infantry,2,0,0,0,0,10% chance Atk+5
+Arnell,Poppy,Cavalry,0,2,0,1,50,
+Azimov,Snapdragon,Infantry,2,1,0,0,0,
+Bubble,Commoner,Infantry,0,0,0,0,50,
+Cain,Poppy,Cavalry,2,0,0,1,0,Atk+1 per defeated ally
+Duke Cherry,Cherry,Infantry,1,2,0,0,0,Atk&Def+1 vs units w/leaders
+Duke Hyacinth,Hyacinth,Infantry,1,0,0,1,0,Mov+2 when adj to enemy
+Duke Pansy,Pansy,Infantry,2,1,0,0,30,Morale+10% / round
+Duke Red Rose,Red Rose,Cavalry,2,2,0,1,100,Adj. ally Morale+10% / round_Autokill leaderless units
+Duke White Rose,White Rose,Cavalry,1,3,0,1,100,Adj. enemy Morale-10% / round_Autokill leaderless units
+Duke Willow,Willow,Cavalry,1,1,0,1,0,
+Duke,Commoner,Infantry,1,1,0,0,0,
+Elaine,Black Rose,Infantry,1,0,0,3,0,5% chance convert adj. enemy
+Gustafssen,Poppy,Ranged,2,0,0,0,0,20% chance Atk+3_20% chance Atk-3
+Hannah,Lilac,Ranged,0,1,1,1,0,
+Hugh F-W,Poppy,Infantry,0,2,0,1,0,Morale+5% / round
+Ilandra,Honeysuckle,Infantry,0,0,0,1,0,Adj ally Morale+20%_/ round
+Indigo Something,Buttercup,Infantry,1,0,0,1,0,Invisible
+Jasmine,Red Rose,Ranged,2,0,0,1,0,
+Jebodiah,Commoner,Command,0,0,0,0,0,Commoner Max Morale+20%
+Kiddo,Hyacinth,Infantry,1,1,0,0,20,
+Lorelai,Lilac,Cavalry,1,1,0,1,0,
+Mister Chicken,Poppy,Command,0,0,0,0,0,All units Mov+1
+Nyano,Poppy,Infantry,0,0,0,3,0,Invisible
+Regara,Poppy,Command,0,0,0,0,0,
+Saledenre,Poppy,Cavalry,1,0,0,2,0,Flying
+Serin,Human,Ranged,1,0,0,2,0,10% chance Atk+5
+Shannon,Lilac,Infantry,1,1,0,1,0,
+Solid Snape,Commoner,Infantry,1,0,0,2,0,Invisible
+Squeak,Commoner,Infantry,0,0,0,0,50,

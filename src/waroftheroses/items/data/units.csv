@@ -1,0 +1,16 @@
+Name,Type,Attack,Defence,Range,Move
+Swordsmen,Infantry,5,5,1,4
+Axemen,Infantry,6,4,1,4
+Pikemen,Infantry,3,7,2,4
+Berserkers,Infantry,7,2,1,5
+Scouts,Infantry,2,2,1,7
+Skirmishers,Infantry,5,3,1,5
+Light Cavalry,Cavalry,5,4,1,7
+Heavy Cavalry,Cavalry,7,6,1,5
+Lancers,Cavalry,9,3,2,5
+Chariots,Cavalry,5,5,2,6
+Archers,Ranged,5,3,6,4
+Crossbowmen,Ranged,7,3,4,4
+Longbowmen,Ranged,7,3,8,4
+Horse Archers,Ranged,5,3,4,7
+Mages,Ranged,6,4,5,4
