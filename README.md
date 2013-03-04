@@ -7,7 +7,7 @@ Issues with this application are tracked here on Github.  Please report any issu
 
 ### Instructions
 
-  * [Playing "War of the Roses"](http://software.ianrenton.com/playing-war-of-the-roses)
+  * [Playing "War of the Roses"](https://github.com/ianrenton/WarOfTheRoses/blob/master/HOW-TO-PLAY.md)
   * [The Boring Page of Tables](http://software.ianrenton.com/war-of-the-roses-tables)
 
 ### Downloads
