@@ -12,7 +12,7 @@ This is War of the Roses' Big Page of Tables.  Fear it, for it is spreadsheety.
 <td><b>Move</b></td>
 </tr>
 <tr>
-<td><img src="http://www.onlydreaming.net/files/WarOfTheRoses/tiles/Swordsmen.png" /></td>
+<td><img src="https://github.com/ianrenton/WarOfTheRoses/blob/master/src/waroftheroses/items/tiles/Swordsmen.png" /></td>
 <td>Swordsmen</td>
 <td>Infantry</td>
 <td>5</td>
@@ -21,7 +21,7 @@ This is War of the Roses' Big Page of Tables.  Fear it, for it is spreadsheety.
 <td>4</td>
 </tr>
 <tr>
-<td><img src="http://www.onlydreaming.net/files/WarOfTheRoses/tiles/Axemen.png" /></td>
+<td><img src="https://github.com/ianrenton/WarOfTheRoses/blob/master/src/waroftheroses/items/tiles/Axemen.png" /></td>
 <td>Axemen</td>
 <td>Infantry</td>
 <td>6</td>
@@ -30,7 +30,7 @@ This is War of the Roses' Big Page of Tables.  Fear it, for it is spreadsheety.
 <td>4</td>
 </tr>
 <tr>
-<td><img src="http://www.onlydreaming.net/files/WarOfTheRoses/tiles/Pikemen.png" /></td>
+<td><img src="https://github.com/ianrenton/WarOfTheRoses/blob/master/src/waroftheroses/items/tiles/Pikemen.png" /></td>
 <td>Pikemen</td>
 <td>Infantry</td>
 <td>3</td>
@@ -39,7 +39,7 @@ This is War of the Roses' Big Page of Tables.  Fear it, for it is spreadsheety.
 <td>4</td>
 </tr>
 <tr>
-<td><img src="http://www.onlydreaming.net/files/WarOfTheRoses/tiles/Beserkers.png" /></td>
+<td><img src="https://github.com/ianrenton/WarOfTheRoses/blob/master/src/waroftheroses/items/tiles/Beserkers.png" /></td>
 <td>Berserkers</td>
 <td>Infantry</td>
 <td>7</td>
@@ -48,7 +48,7 @@ This is War of the Roses' Big Page of Tables.  Fear it, for it is spreadsheety.
 <td>6</td>
 </tr>
 <tr>
-<td><img src="http://www.onlydreaming.net/files/WarOfTheRoses/tiles/Scouts.png" /></td>
+<td><img src="https://github.com/ianrenton/WarOfTheRoses/blob/master/src/waroftheroses/items/tiles/Scouts.png" /></td>
 <td>Scouts</td>
 <td>Infantry</td>
 <td>2</td>
@@ -57,7 +57,7 @@ This is War of the Roses' Big Page of Tables.  Fear it, for it is spreadsheety.
 <td>7</td>
 </tr>
 <tr>
-<td><img src="http://www.onlydreaming.net/files/WarOfTheRoses/tiles/Skirmishers.png" /></td>
+<td><img src="https://github.com/ianrenton/WarOfTheRoses/blob/master/src/waroftheroses/items/tiles/Skirmishers.png" /></td>
 <td>Skirmishers</td>
 <td>Infantry</td>
 <td>5</td>
@@ -66,7 +66,7 @@ This is War of the Roses' Big Page of Tables.  Fear it, for it is spreadsheety.
 <td>5</td>
 </tr>
 <tr>
-<td><img src="http://www.onlydreaming.net/files/WarOfTheRoses/tiles/Light Cavalry.png" /></td>
+<td><img src="https://github.com/ianrenton/WarOfTheRoses/blob/master/src/waroftheroses/items/tiles/Light%20Cavalry.png" /></td>
 <td>Light Cavalry</td>
 <td>Cavalry</td>
 <td>5</td>
@@ -75,7 +75,7 @@ This is War of the Roses' Big Page of Tables.  Fear it, for it is spreadsheety.
 <td>7</td>
 </tr>
 <tr>
-<td><img src="http://www.onlydreaming.net/files/WarOfTheRoses/tiles/Heavy Cavalry.png" /></td>
+<td><img src="https://github.com/ianrenton/WarOfTheRoses/blob/master/src/waroftheroses/items/tiles/Heavy%20Cavalry.png" /></td>
 <td>Heavy Cavalry</td>
 <td>Cavalry</td>
 <td>7</td>
@@ -84,7 +84,7 @@ This is War of the Roses' Big Page of Tables.  Fear it, for it is spreadsheety.
 <td>5</td>
 </tr>
 <tr>
-<td><img src="http://www.onlydreaming.net/files/WarOfTheRoses/tiles/Lancers.png" /></td>
+<td><img src="https://github.com/ianrenton/WarOfTheRoses/blob/master/src/waroftheroses/items/tiles/Lancers.png" /></td>
 <td>Lancers</td>
 <td>Cavalry</td>
 <td>9</td>
@@ -93,7 +93,7 @@ This is War of the Roses' Big Page of Tables.  Fear it, for it is spreadsheety.
 <td>5</td>
 </tr>
 <tr>
-<td><img src="http://www.onlydreaming.net/files/WarOfTheRoses/tiles/Chariots.png" /></td>
+<td><img src="https://github.com/ianrenton/WarOfTheRoses/blob/master/src/waroftheroses/items/tiles/Chariots.png" /></td>
 <td>Chariots</td>
 <td>Cavalry</td>
 <td>5</td>
@@ -102,7 +102,7 @@ This is War of the Roses' Big Page of Tables.  Fear it, for it is spreadsheety.
 <td>6</td>
 </tr>
 <tr>
-<td><img src="http://www.onlydreaming.net/files/WarOfTheRoses/tiles/Archers.png" /></td>
+<td><img src="https://github.com/ianrenton/WarOfTheRoses/blob/master/src/waroftheroses/items/tiles/Archers.png" /></td>
 <td>Archers</td>
 <td>Ranged</td>
 <td>5</td>
@@ -111,7 +111,7 @@ This is War of the Roses' Big Page of Tables.  Fear it, for it is spreadsheety.
 <td>4</td>
 </tr>
 <tr>
-<td><img src="http://www.onlydreaming.net/files/WarOfTheRoses/tiles/Crossbowmen.png" /></td>
+<td><img src="https://github.com/ianrenton/WarOfTheRoses/blob/master/src/waroftheroses/items/tiles/Crossbowmen.png" /></td>
 <td>Crossbowmen</td>
 <td>Ranged</td>
 <td>7</td>
@@ -120,7 +120,7 @@ This is War of the Roses' Big Page of Tables.  Fear it, for it is spreadsheety.
 <td>4</td>
 </tr>
 <tr>
-<td><img src="http://www.onlydreaming.net/files/WarOfTheRoses/tiles/Longbowmen.png" /></td>
+<td><img src="https://github.com/ianrenton/WarOfTheRoses/blob/master/src/waroftheroses/items/tiles/Longbowmen.png" /></td>
 <td>Longbowmen</td>
 <td>Ranged</td>
 <td>7</td>
@@ -129,7 +129,7 @@ This is War of the Roses' Big Page of Tables.  Fear it, for it is spreadsheety.
 <td>4</td>
 </tr>
 <tr>
-<td><img src="http://www.onlydreaming.net/files/WarOfTheRoses/tiles/Horse Archers.png" /></td>
+<td><img src="https://github.com/ianrenton/WarOfTheRoses/blob/master/src/waroftheroses/items/tiles/Horse%20Archers.png" /></td>
 <td>Horse Archers</td>
 <td>Ranged</td>
 <td>5</td>
@@ -138,7 +138,7 @@ This is War of the Roses' Big Page of Tables.  Fear it, for it is spreadsheety.
 <td>7</td>
 </tr>
 <tr>
-<td><img src="http://www.onlydreaming.net/files/WarOfTheRoses/tiles/Mages.png" /></td>
+<td><img src="https://github.com/ianrenton/WarOfTheRoses/blob/master/src/waroftheroses/items/tiles/Mages.png" /></td>
 <td>Mages</td>
 <td>Ranged</td>
 <td>6</td>
@@ -162,7 +162,7 @@ This is War of the Roses' Big Page of Tables.  Fear it, for it is spreadsheety.
 <td><b>Special Bonus</b></td>
 </tr>
 <tr>
-<td><img src="http://www.onlydreaming.net/files/WarOfTheRoses/faces/Abel.png" /></td>
+<td><img src="https://github.com/ianrenton/WarOfTheRoses/blob/master/src/waroftheroses/items/faces/Abel.png" /></td>
 <td>Abel</td>
 <td>Poppy</td>
 <td>Ranged</td>
@@ -174,7 +174,7 @@ This is War of the Roses' Big Page of Tables.  Fear it, for it is spreadsheety.
 <td>50% chance of Move + 2</td>
 </tr>
 <tr>
-<td><img src="http://www.onlydreaming.net/files/WarOfTheRoses/faces/Abigail.png" /></td>
+<td><img src="https://github.com/ianrenton/WarOfTheRoses/blob/master/src/waroftheroses/items/faces/Abigail.png" /></td>
 <td>Abigail</td>
 <td>Hydrangea</td>
 <td>Cavalry</td>
@@ -186,7 +186,7 @@ This is War of the Roses' Big Page of Tables.  Fear it, for it is spreadsheety.
 <td>2% chance of converting an adjacent enemy unit</td>
 </tr>
 <tr>
-<td><img src="http://www.onlydreaming.net/files/WarOfTheRoses/faces/Akane.png" /></td>
+<td><img src="https://github.com/ianrenton/WarOfTheRoses/blob/master/src/waroftheroses/items/faces/Akane.png" /></td>
 <td>Akane</td>
 <td>Honeysuckle</td>
 <td>Ranged</td>
@@ -198,7 +198,7 @@ This is War of the Roses' Big Page of Tables.  Fear it, for it is spreadsheety.
 <td>10% chance of Attack + 5</td>
 </tr>
 <tr>
-<td><img src="http://www.onlydreaming.net/files/WarOfTheRoses/faces/Albert.png" /></td>
+<td><img src="https://github.com/ianrenton/WarOfTheRoses/blob/master/src/waroftheroses/items/faces/Albert.png" /></td>
 <td>Albert</td>
 <td>Commoner</td>
 <td>Cavalry</td>
@@ -210,7 +210,7 @@ This is War of the Roses' Big Page of Tables.  Fear it, for it is spreadsheety.
 <td></td>
 </tr>
 <tr>
-<td><img src="http://www.onlydreaming.net/files/WarOfTheRoses/faces/Alice Liddell.png" /></td>
+<td><img src="https://github.com/ianrenton/WarOfTheRoses/blob/master/src/waroftheroses/items/faces/Alice%20Liddell.png" /></td>
 <td>Alice Liddell</td>
 <td>Black Rose</td>
 <td>Command</td>
@@ -222,7 +222,7 @@ This is War of the Roses' Big Page of Tables.  Fear it, for it is spreadsheety.
 <td>Stationary units create taint</td>
 </tr>
 <tr>
-<td><img src="http://www.onlydreaming.net/files/WarOfTheRoses/faces/An Hero.png" /></td>
+<td><img src="https://github.com/ianrenton/WarOfTheRoses/blob/master/src/waroftheroses/items/faces/An%20Hero.png" /></td>
 <td>An Hero</td>
 <td>Commoner</td>
 <td>Infantry</td>
@@ -234,7 +234,7 @@ This is War of the Roses' Big Page of Tables.  Fear it, for it is spreadsheety.
 <td>10% chance of Attack + 5</td>
 </tr>
 <tr>
-<td><img src="http://www.onlydreaming.net/files/WarOfTheRoses/faces/Arnell.png" /></td>
+<td><img src="https://github.com/ianrenton/WarOfTheRoses/blob/master/src/waroftheroses/items/faces/Arnell.png" /></td>
 <td>Arnell</td>
 <td>Poppy</td>
 <td>Cavalry</td>
@@ -246,7 +246,7 @@ This is War of the Roses' Big Page of Tables.  Fear it, for it is spreadsheety.
 <td></td>
 </tr>
 <tr>
-<td><img src="http://www.onlydreaming.net/files/WarOfTheRoses/faces/Azimov.png" /></td>
+<td><img src="https://github.com/ianrenton/WarOfTheRoses/blob/master/src/waroftheroses/items/faces/Azimov.png" /></td>
 <td>Azimov</td>
 <td>Snapdragon</td>
 <td>Infantry</td>
@@ -258,7 +258,7 @@ This is War of the Roses' Big Page of Tables.  Fear it, for it is spreadsheety.
 <td></td>
 </tr>
 <tr>
-<td><img src="http://www.onlydreaming.net/files/WarOfTheRoses/faces/Bubble.png" /></td>
+<td><img src="https://github.com/ianrenton/WarOfTheRoses/blob/master/src/waroftheroses/items/faces/Bubble.png" /></td>
 <td>Bubble</td>
 <td>Commoner</td>
 <td>Infantry</td>
@@ -270,7 +270,7 @@ This is War of the Roses' Big Page of Tables.  Fear it, for it is spreadsheety.
 <td></td>
 </tr>
 <tr>
-<td><img src="http://www.onlydreaming.net/files/WarOfTheRoses/faces/Cain.png" /></td>
+<td><img src="https://github.com/ianrenton/WarOfTheRoses/blob/master/src/waroftheroses/items/faces/Cain.png" /></td>
 <td>Cain</td>
 <td>Poppy</td>
 <td>Cavalry</td>
@@ -282,7 +282,7 @@ This is War of the Roses' Big Page of Tables.  Fear it, for it is spreadsheety.
 <td>Attack + 1 for each defeated ally unit</td>
 </tr>
 <tr>
-<td><img src="http://www.onlydreaming.net/files/WarOfTheRoses/faces/Duke Cherry.png" /></td>
+<td><img src="https://github.com/ianrenton/WarOfTheRoses/blob/master/src/waroftheroses/items/faces/Duke%20Cherry.png" /></td>
 <td>Duke Cherry</td>
 <td>Cherry</td>
 <td>Infantry</td>
@@ -294,7 +294,7 @@ This is War of the Roses' Big Page of Tables.  Fear it, for it is spreadsheety.
 <td>Attack &amp; Defence +1 versus enemy units with leaders</td>
 </tr>
 <tr>
-<td><img src="http://www.onlydreaming.net/files/WarOfTheRoses/faces/Duke Hyacinth.png" /></td>
+<td><img src="https://github.com/ianrenton/WarOfTheRoses/blob/master/src/waroftheroses/items/faces/Duke%20Hyacinth.png" /></td>
 <td>Duke Hyacinth</td>
 <td>Hyacinth</td>
 <td>Infantry</td>
@@ -306,7 +306,7 @@ This is War of the Roses' Big Page of Tables.  Fear it, for it is spreadsheety.
 <td>Move + 2 when adjacent to an enemy unit</td>
 </tr>
 <tr>
-<td><img src="http://www.onlydreaming.net/files/WarOfTheRoses/faces/Duke Pansy.png" /></td>
+<td><img src="https://github.com/ianrenton/WarOfTheRoses/blob/master/src/waroftheroses/items/faces/Duke%20Pansy.png" /></td>
 <td>Duke Pansy</td>
 <td>Pansy</td>
 <td>Infantry</td>
@@ -318,7 +318,7 @@ This is War of the Roses' Big Page of Tables.  Fear it, for it is spreadsheety.
 <td>Morale + 10% per round</td>
 </tr>
 <tr>
-<td><img src="http://www.onlydreaming.net/files/WarOfTheRoses/faces/Duke Red Rose.png" /></td>
+<td><img src="https://github.com/ianrenton/WarOfTheRoses/blob/master/src/waroftheroses/items/faces/Duke%20Red%20Rose.png" /></td>
 <td>Duke Red Rose</td>
 <td>Red Rose</td>
 <td>Cavalry</td>
@@ -330,7 +330,7 @@ This is War of the Roses' Big Page of Tables.  Fear it, for it is spreadsheety.
 <td>morale of adjacent allies + 10% per round, autokill units without leaders</td>
 </tr>
 <tr>
-<td><img src="http://www.onlydreaming.net/files/WarOfTheRoses/faces/Duke White Rose.png" /></td>
+<td><img src="https://github.com/ianrenton/WarOfTheRoses/blob/master/src/waroftheroses/items/faces/Duke%20White%20Rose.png" /></td>
 <td>Duke White Rose</td>
 <td>White Rose</td>
 <td>Cavalry</td>
@@ -342,7 +342,7 @@ This is War of the Roses' Big Page of Tables.  Fear it, for it is spreadsheety.
 <td>morale of adjacent enemies - 5% per round, autokill units without leaders</td>
 </tr>
 <tr>
-<td><img src="http://www.onlydreaming.net/files/WarOfTheRoses/faces/Duke Willow.png" /></td>
+<td><img src="https://github.com/ianrenton/WarOfTheRoses/blob/master/src/waroftheroses/items/faces/Duke%20Willow.png" /></td>
 <td>Duke Willow</td>
 <td>Willow</td>
 <td>Cavalry</td>
@@ -354,7 +354,7 @@ This is War of the Roses' Big Page of Tables.  Fear it, for it is spreadsheety.
 <td></td>
 </tr>
 <tr>
-<td><img src="http://www.onlydreaming.net/files/WarOfTheRoses/faces/Duke.png" /></td>
+<td><img src="https://github.com/ianrenton/WarOfTheRoses/blob/master/src/waroftheroses/items/faces/Duke.png" /></td>
 <td>"Duke"</td>
 <td>Commoner</td>
 <td>Infantry</td>
@@ -366,7 +366,7 @@ This is War of the Roses' Big Page of Tables.  Fear it, for it is spreadsheety.
 <td></td>
 </tr>
 <tr>
-<td><img src="http://www.onlydreaming.net/files/WarOfTheRoses/faces/Elaine.png" /></td>
+<td><img src="https://github.com/ianrenton/WarOfTheRoses/blob/master/src/waroftheroses/items/faces/Elaine.png" /></td>
 <td>Elaine</td>
 <td>Black Rose</td>
 <td>Infantry</td>
@@ -378,7 +378,7 @@ This is War of the Roses' Big Page of Tables.  Fear it, for it is spreadsheety.
 <td>5% chance of converting an adjacent enemy unit</td>
 </tr>
 <tr>
-<td><img src="http://www.onlydreaming.net/files/WarOfTheRoses/faces/Gustafssen.png" /></td>
+<td><img src="https://github.com/ianrenton/WarOfTheRoses/blob/master/src/waroftheroses/items/faces/Gustafssen.png" /></td>
 <td>Gustafssen</td>
 <td>Poppy</td>
 <td>Ranged</td>
@@ -390,7 +390,7 @@ This is War of the Roses' Big Page of Tables.  Fear it, for it is spreadsheety.
 <td>20% chance of attack + 3, 20% chance of attack - 3</td>
 </tr>
 <tr>
-<td><img src="http://www.onlydreaming.net/files/WarOfTheRoses/faces/Hannah.png" /></td>
+<td><img src="https://github.com/ianrenton/WarOfTheRoses/blob/master/src/waroftheroses/items/faces/Hannah.png" /></td>
 <td>Hannah</td>
 <td>Lilac</td>
 <td>Ranged</td>
@@ -402,7 +402,7 @@ This is War of the Roses' Big Page of Tables.  Fear it, for it is spreadsheety.
 <td></td>
 </tr>
 <tr>
-<td><img src="http://www.onlydreaming.net/files/WarOfTheRoses/faces/Hugh F-W.png" /></td>
+<td><img src="https://github.com/ianrenton/WarOfTheRoses/blob/master/src/waroftheroses/items/faces/Hugh%20F-W.png" /></td>
 <td>Hugh F-W</td>
 <td>Poppy</td>
 <td>Infantry</td>
@@ -414,7 +414,7 @@ This is War of the Roses' Big Page of Tables.  Fear it, for it is spreadsheety.
 <td>Morale + 5% per round</td>
 </tr>
 <tr>
-<td><img src="http://www.onlydreaming.net/files/WarOfTheRoses/faces/Ilandra.png" /></td>
+<td><img src="https://github.com/ianrenton/WarOfTheRoses/blob/master/src/waroftheroses/items/faces/Ilandra.png" /></td>
 <td>Ilandra</td>
 <td>Honeysuckle</td>
 <td>Infantry</td>
@@ -426,7 +426,7 @@ This is War of the Roses' Big Page of Tables.  Fear it, for it is spreadsheety.
 <td>Morale of adjacent allies + 20% per round</td>
 </tr>
 <tr>
-<td><img src="http://www.onlydreaming.net/files/WarOfTheRoses/faces/Indigo Something.png" /></td>
+<td><img src="https://github.com/ianrenton/WarOfTheRoses/blob/master/src/waroftheroses/items/faces/Indigo%20Something.png" /></td>
 <td>Indigo Something</td>
 <td>Buttercup</td>
 <td>Infantry</td>
@@ -438,7 +438,7 @@ This is War of the Roses' Big Page of Tables.  Fear it, for it is spreadsheety.
 <td>Invisible</td>
 </tr>
 <tr>
-<td><img src="http://www.onlydreaming.net/files/WarOfTheRoses/faces/Jasmine.png" /></td>
+<td><img src="https://github.com/ianrenton/WarOfTheRoses/blob/master/src/waroftheroses/items/faces/Jasmine.png" /></td>
 <td>Jasmine</td>
 <td>Red Rose</td>
 <td>Ranged</td>
@@ -450,7 +450,7 @@ This is War of the Roses' Big Page of Tables.  Fear it, for it is spreadsheety.
 <td></td>
 </tr>
 <tr>
-<td><img src="http://www.onlydreaming.net/files/WarOfTheRoses/faces/Jebodiah.png" /></td>
+<td><img src="https://github.com/ianrenton/WarOfTheRoses/blob/master/src/waroftheroses/items/faces/Jebodiah.png" /></td>
 <td>Jebodiah</td>
 <td>Commoner</td>
 <td>Command</td>
@@ -462,7 +462,7 @@ This is War of the Roses' Big Page of Tables.  Fear it, for it is spreadsheety.
 <td>Max morale of all commoners + 20%</td>
 </tr>
 <tr>
-<td><img src="http://www.onlydreaming.net/files/WarOfTheRoses/faces/Kiddo.png" /></td>
+<td><img src="https://github.com/ianrenton/WarOfTheRoses/blob/master/src/waroftheroses/items/faces/Kiddo.png" /></td>
 <td>"Kiddo"</td>
 <td>Hyacinth</td>
 <td>Infantry</td>
@@ -474,7 +474,7 @@ This is War of the Roses' Big Page of Tables.  Fear it, for it is spreadsheety.
 <td></td>
 </tr>
 <tr>
-<td><img src="http://www.onlydreaming.net/files/WarOfTheRoses/faces/Lorelai.png" /></td>
+<td><img src="https://github.com/ianrenton/WarOfTheRoses/blob/master/src/waroftheroses/items/faces/Lorelai.png" /></td>
 <td>Lorelai</td>
 <td>Lilac</td>
 <td>Cavalry</td>
@@ -486,7 +486,7 @@ This is War of the Roses' Big Page of Tables.  Fear it, for it is spreadsheety.
 <td></td>
 </tr>
 <tr>
-<td><img src="http://www.onlydreaming.net/files/WarOfTheRoses/faces/Mister Chicken.png" /></td>
+<td><img src="https://github.com/ianrenton/WarOfTheRoses/blob/master/src/waroftheroses/items/faces/Mister%20Chicken.png" /></td>
 <td>Mister Chicken</td>
 <td>Poppy</td>
 <td>Command</td>
@@ -498,7 +498,7 @@ This is War of the Roses' Big Page of Tables.  Fear it, for it is spreadsheety.
 <td>All units Move + 1</td>
 </tr>
 <tr>
-<td><img src="http://www.onlydreaming.net/files/WarOfTheRoses/faces/Nyano.png" /></td>
+<td><img src="https://github.com/ianrenton/WarOfTheRoses/blob/master/src/waroftheroses/items/faces/Nyano.png" /></td>
 <td>Nyano</td>
 <td>Poppy</td>
 <td>Infantry</td>
@@ -510,7 +510,7 @@ This is War of the Roses' Big Page of Tables.  Fear it, for it is spreadsheety.
 <td>Enemy units not adjacent do not specifically target this unit</td>
 </tr>
 <tr>
-<td><img src="http://www.onlydreaming.net/files/WarOfTheRoses/faces/Regara.png" /></td>
+<td><img src="https://github.com/ianrenton/WarOfTheRoses/blob/master/src/waroftheroses/items/faces/Regara.png" /></td>
 <td>Regara</td>
 <td>Poppy</td>
 <td>Command</td>
@@ -522,7 +522,7 @@ This is War of the Roses' Big Page of Tables.  Fear it, for it is spreadsheety.
 <td></td>
 </tr>
 <tr>
-<td><img src="http://www.onlydreaming.net/files/WarOfTheRoses/faces/Saledenre.png" /></td>
+<td><img src="https://github.com/ianrenton/WarOfTheRoses/blob/master/src/waroftheroses/items/faces/Saledenre.png" /></td>
 <td>Saledenre</td>
 <td>Poppy</td>
 <td>Cavalry</td>
@@ -534,7 +534,7 @@ This is War of the Roses' Big Page of Tables.  Fear it, for it is spreadsheety.
 <td>Can fly over other units</td>
 </tr>
 <tr>
-<td><img src="http://www.onlydreaming.net/files/WarOfTheRoses/faces/Serin.png" /></td>
+<td><img src="https://github.com/ianrenton/WarOfTheRoses/blob/master/src/waroftheroses/items/faces/Serin.png" /></td>
 <td>Serin</td>
 <td>Human</td>
 <td>Ranged</td>
@@ -546,7 +546,7 @@ This is War of the Roses' Big Page of Tables.  Fear it, for it is spreadsheety.
 <td>10% chance of Attack + 5</td>
 </tr>
 <tr>
-<td><img src="http://www.onlydreaming.net/files/WarOfTheRoses/faces/Shannon.png" /></td>
+<td><img src="https://github.com/ianrenton/WarOfTheRoses/blob/master/src/waroftheroses/items/faces/Shannon.png" /></td>
 <td>Shannon</td>
 <td>Lilac</td>
 <td>Infantry</td>
@@ -558,7 +558,7 @@ This is War of the Roses' Big Page of Tables.  Fear it, for it is spreadsheety.
 <td></td>
 </tr>
 <tr>
-<td><img src="http://www.onlydreaming.net/files/WarOfTheRoses/faces/Solid Snape.png" /></td>
+<td><img src="https://github.com/ianrenton/WarOfTheRoses/blob/master/src/waroftheroses/items/faces/Solid%20Snape.png" /></td>
 <td>Solid Snape</td>
 <td>Commoner</td>
 <td>Infantry</td>
@@ -570,7 +570,7 @@ This is War of the Roses' Big Page of Tables.  Fear it, for it is spreadsheety.
 <td>Enemy units not adjacent do not specifically target this unit</td>
 </tr>
 <tr>
-<td><img src="http://www.onlydreaming.net/files/WarOfTheRoses/faces/Squeak.png" /></td>
+<td><img src="https://github.com/ianrenton/WarOfTheRoses/blob/master/src/waroftheroses/items/faces/Squeak.png" /></td>
 <td>Squeak</td>
 <td>Commoner</td>
 <td>Infantry</td>
