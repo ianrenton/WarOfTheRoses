@@ -12,4 +12,4 @@ Issues with this application are tracked here on Github.  Please report any issu
 
 ### Downloads
 
-You can download the game as an [executable JAR file](http://www.onlydreaming.net/files/WarOfTheRoses/WarOfTheRoses.jar). 
+You can download the game as an [executable JAR file](https://github.com/ianrenton/WarOfTheRoses/files/702992/WarOfTheRoses.zip). 
